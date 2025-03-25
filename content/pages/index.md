@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
+    title: HOT DEALS
     subtitle: Exclusive Deals Just for You
     text: |+
       ### Find the best products at unbeatable prices.
