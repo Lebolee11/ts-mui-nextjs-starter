@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Hero Title
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: Exclusive Deals Just for You
     text: |+
       ### Find the best products at unbeatable prices.
 
