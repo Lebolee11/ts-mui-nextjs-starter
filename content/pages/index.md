@@ -6,7 +6,7 @@ sections:
     title: HOT DEALS
     subtitle: Exclusive Deals Just for You
     text: |+
-      ### Find the best products at unbeatable prices.
+      #### Find the best products at unbeatable prices.
 
     actions:
       - type: Button
